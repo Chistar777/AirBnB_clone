@@ -279,4 +279,4 @@ $ python3 unittest -m tests/test_console.py
 ## Authors :black_nib:
 
 - **Chukwuma Chidera** <[Chistar777](https://github.com/Chistar777)>
-- **Dannon Rebecca** <[DannonBolu](https://github.com/DannonBolu)>
+- **Boluwatife Dannon** <[DannonBolu](https://github.com/DannonBolu)>
